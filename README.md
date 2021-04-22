@@ -1,5 +1,6 @@
-Link Heroku : https://crud-kpop.herokuapp.com/list-kpop
 
+Link Heroku : https://crud-kpop.herokuapp.com/list-kpop
+Link Laporan : https://drive.google.com/file/d/1MUBvnBzs0RbsAnH763s1tk06wjELXHl0/view?usp=sharing
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
